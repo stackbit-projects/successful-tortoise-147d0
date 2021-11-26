@@ -1,5 +1,5 @@
 ---
-title: About
+title: Biodanza
 seo:
   title: About
   description: This is the about page
