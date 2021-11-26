@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: eva
+    title: 'Eva is passionate about the opportunities dance offers,'
     actions:
       - label: Contact Me
         url: /contact
