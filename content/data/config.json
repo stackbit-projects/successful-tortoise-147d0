@@ -16,11 +16,6 @@
                 "style": "link"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
                 "label": "Biodanza",
                 "url": "/biodanza",
                 "style": "link",
@@ -29,6 +24,11 @@
                 "icon_position": "right",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "FAQ",
+                "url": "/faq",
+                "style": "link"
             },
             {
                 "label": "Contact me",
