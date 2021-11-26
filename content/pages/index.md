@@ -7,7 +7,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-    image: images/hero.png
+    image: /images/D3F70AFA-DF8F-4A51-BD3A-29D7BC145455.jpeg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
