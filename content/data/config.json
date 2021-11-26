@@ -26,7 +26,8 @@
                 "style": "link"
             }
         ],
-        "has_secondary_nav": false
+        "has_secondary_nav": false,
+        "title": "De"
     },
     "footer": {
         "logo": "images/logo.svg",
