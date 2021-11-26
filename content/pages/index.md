@@ -19,14 +19,15 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    content: |+
-      Eva
-       is passionate about the opportunities dance offers, not only in the 
-      physical health aspect but also in the social integration. “Since 
-      discovering Biodanza I have been aware of the power of dance and music 
-      to reveal our layers allowing communication with authenticity without 
-      words”. 
+    content: >
+      not only in the physical health aspect but also in the social integration.
+      “Since
 
+      discovering Biodanza I have been aware of the power of dance and music
+
+      to reveal our layers allowing communication with authenticity without
+
+      words”.
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
