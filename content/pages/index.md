@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Biodanza music movement and the group
+    title: 'Biodanza: music movement and the group'
     actions:
       - label: Contact Me
         url: /contact
