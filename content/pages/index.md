@@ -32,7 +32,7 @@ sections:
     title: My services
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: Biodanza in a Nutshell
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
