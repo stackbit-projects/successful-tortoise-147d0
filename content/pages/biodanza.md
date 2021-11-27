@@ -81,13 +81,3 @@ layout: page
 ##### Biodanza has great potential for&#xA;children and young people who find traditional classroom learning approaches&#xA;difficult. The physical movement and emotional energy is a release from&#xA;activities based solely on the intellect. It provides a refreshing and&#xA;innovative alternative for auditory and visual learners too.
 
 ##### Biodanza is a natural fit within&#xA;the expressive arts of drama, dance and music, as well as within the non-statutory&#xA;PSHE curriculum
-
-##### Credentials
-
-##### I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
-
-##### My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
-
-##### Writing for Action
-
-##### I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
