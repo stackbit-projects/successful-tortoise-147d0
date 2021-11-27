@@ -14,11 +14,11 @@ sections:
         content: |
           Biodanza is a movement practice ...
       - title: What do I need to bring to the class?
-        content: >-
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
+        content: >
+          Comfortable, loose fitting clothes. Some water to stay hydrated.
+          Biodanza is normally danced barefoot, so no footwear is necessary.
+          However, soft dance shoes can be worn if there is a need to wear
+          shoes.
       - title: How do you base your pricing?
         content: >-
           Depending on the scope and timeline of your content needs, we can work
