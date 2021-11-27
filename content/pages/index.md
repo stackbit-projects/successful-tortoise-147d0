@@ -89,7 +89,7 @@ sections:
       - content: |
           Eva is the best.
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Hanson Deck,** *Teacher, Fishponds*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
