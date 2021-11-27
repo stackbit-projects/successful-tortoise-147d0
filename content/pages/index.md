@@ -111,9 +111,11 @@ sections:
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+      - content: >
+          I love it. I absolutely love it. All my life I put up barriers in the
+          presence of other people. In Biodanza I can connect with total
+          strangers in the most meaningful way without saying a single word!
+          Mind blowing!
 
 
           **Gordon Norman,** *Web Designer, Local Business*
