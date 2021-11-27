@@ -39,7 +39,7 @@ sections:
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
           case studies and product descriptions. No job is too big or small!
         actions:
-          - label: See Writing Samples
+          - label: FAQs for more details
             url: /faq
             style: primary
             has_icon: true
