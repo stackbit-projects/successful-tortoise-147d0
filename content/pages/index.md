@@ -34,10 +34,10 @@ sections:
     features:
       - title: Biodanza in a Nutshell
         subtitle: The Poetry of the Human Encounter
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Biodanza is more than just a dance or movement practice. Biodanza is a
+          system that allows every single participant to (re-)discover their
+          real nature through their instincts. 
         actions:
           - label: FAQs for more details
             url: /faq
