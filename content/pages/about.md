@@ -4,43 +4,73 @@ seo:
   title: About
   description: This is the about page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: About
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the about page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/about.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: About
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the about page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
 layout: page
 ---
-
 ![A woman using a laptop](/images/about.jpg)
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
-
-## Credentials
-
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
-
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
 
 
 
-## Writing for Action
 
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+
+
+
+
+
+
+
+
+
+
+
+
+About me 
+
+Eva is originally from Spain, she holds a BA in Fine Arts
+from the University of La Laguna and a PGCE in Secondary School from The
+Complutense Madrid University, as well as Studies in “Art mediation for social Integration”
+from the Granada University. She has experience working in Social Development
+programs, specially working with 
+children and teenagers.  She is
+bee working in the Health an Social Care industry since she moves to Bristol
+with her daughter 8 years ago . She  has
+studied Practical Self Sustainability and obtain the PDC (Permaculture design
+certificate) with Shift Bristol.
+
+Eva has Studied Biodanza Teaching Training at the Bristol
+School, as well as the special training to work with Children and Teenagers and
+the Training of “ Biodanza for Social Action”. She is in the process of
+elaborating  her Monography as a  Biodanza Facilitator  , she has Facilitated several Biodanza
+classes mainly workshops for children and 
+for Families, as well as special events for adults..
+
+Eva feels passionate about bringing Biodanza to everyone,
+but Children and Teenagers are her focus, they are the future adults and they
+are going through many changes and challenges on this schools years, Biodanza
+is a system that  offer support on the
+Social, Emotional and Mental Health , were the participants get to know
+themselves and the goup better, learn to relate in feedback , express their
+uniqueness, and integrate all their parts.
+
