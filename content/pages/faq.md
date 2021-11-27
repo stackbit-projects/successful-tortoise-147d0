@@ -10,7 +10,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: What is your process?
+      - title: What happens in a Biodanza class?
         content: |
           Biodanza is a movement practice ...
       - title: Can you manage our social media?
