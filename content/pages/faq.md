@@ -25,7 +25,7 @@ sections:
       - title: How long are the sessions?
         content: |
           2 hours
-      - title: I have not done any dancing before/in a long while?
+      - title: I have not done any dancing before/in a long while.
         content: >
           Biodanza is a very inclusive practice. It is not about performance or
           style. No steps or choreography.
