@@ -22,3 +22,7 @@ seo:
 layout: page
 ---
 All Biodanza intellectual property is owned by the International Biodanza Federation (IBFed).
+
+GDPR
+
+privacy protection
