@@ -30,7 +30,6 @@ sections:
       words”.
   - type: features_section
     title: My services
-    subtitle: What I do
     features:
       - title: Biodanza in a Nutshell
         subtitle: The Poetry of the Human Encounter
