@@ -29,7 +29,7 @@ sections:
         content: >
           Biodanza is a very inclusive practice. It is not about performance or
           style. No steps or choreography.
-      - title: Who handles the design?
+      - title: I have a chronic injury. Can In take part?
         content: >-
           You can choose to provide the design yourself, or I can include a
           design element to your proposal. I work with several wonderful
