@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Eva is passionate about the opportunities dance offers,'
+    title: Biodanza music movement and the group
     actions:
       - label: Contact Me
         url: /contact
