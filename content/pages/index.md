@@ -84,7 +84,7 @@ sections:
     background_color: none
   - type: grid_section
     title: Testimonials
-    subtitle: What My Clients Say
+    subtitle: What the Regular Biodanza Participants Say
     grid_items:
       - content: |
           Eva is the best.
