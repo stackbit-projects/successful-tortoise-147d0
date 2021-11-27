@@ -20,8 +20,8 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     content: >
-      not only in the physical health aspect but also in the social integration.
-      “Since
+      you will explore the benefits not only in the physical health aspect but
+      also in the social integration. “Since
 
       discovering Biodanza I have been aware of the power of dance and music
 
