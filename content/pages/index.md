@@ -29,7 +29,7 @@ sections:
 
       words”.
   - type: features_section
-    title: My services
+    title: Welcome to the Den
     features:
       - title: Biodanza in a Nutshell
         subtitle: The Poetry of the Human Encounter
