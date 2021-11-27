@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# !\[A woman using a laptop]\(/images/about.jpg)&#xA;&#xA;What is Biodanza?
+# &#xA;&#xA;What is Biodanza?
 
 #####  
 
