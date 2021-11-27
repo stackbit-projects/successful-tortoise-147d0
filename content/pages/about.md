@@ -30,24 +30,6 @@ layout: page
 ---
 ![A woman using a laptop](/images/about.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-About me 
-
 Eva is originally from Spain, she holds a BA in Fine Arts
 from the University of La Laguna and a PGCE in Secondary School from The
 Complutense Madrid University, as well as Studies in “Art mediation for social Integration”
@@ -73,4 +55,3 @@ is a system that  offer support on the
 Social, Emotional and Mental Health , were the participants get to know
 themselves and the goup better, learn to relate in feedback , express their
 uniqueness, and integrate all their parts.
-
