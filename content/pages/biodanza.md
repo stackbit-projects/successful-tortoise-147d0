@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# &#xA;&#xA;What is Biodanza?
+# What is Biodanza?
 
 #####  
 
