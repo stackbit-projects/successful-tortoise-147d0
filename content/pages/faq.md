@@ -3,7 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     title: Frequently Asked Questions
-    subtitle: My answers
+    subtitle: From my heart to your heart.
     align: center
     padding_top: medium
     padding_bottom: small
