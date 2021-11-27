@@ -32,7 +32,7 @@ sections:
     title: Welcome to the Den
     features:
       - title: Biodanza in a Nutshell
-        subtitle: The Poetry of the Human Encounter
+        subtitle: The Poetry of the Human Encounter.
         content: >
           Biodanza is more than just a dance or movement practice. Biodanza is a
           system that allows every single participant to (re-)discover their
