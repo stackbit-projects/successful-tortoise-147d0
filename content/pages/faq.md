@@ -13,7 +13,7 @@ sections:
       - title: What happens in a Biodanza class?
         content: |
           Biodanza is a movement practice ...
-      - title: Can you manage our social media?
+      - title: What do I need to bring to the class?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
           and any other social media platform you wish to maintain. This
