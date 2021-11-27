@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-![A woman using a laptop](/images/about.jpg)
+![](/images/IMG\_0462.jpeg)
 
 Eva is originally from Spain, she holds a BA in Fine Arts
 from the University of La Laguna and a PGCE in Secondary School from The
