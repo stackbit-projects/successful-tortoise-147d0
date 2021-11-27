@@ -3,8 +3,7 @@ title: FAQ
 sections:
   - type: hero_section
     title: Frequently Asked Questions
-    subtitle: >-
-      My answers
+    subtitle: My answers
     align: center
     padding_top: medium
     padding_bottom: small
@@ -12,12 +11,8 @@ sections:
   - type: grid_section
     grid_items:
       - title: What is your process?
-        content: >-
-          It's important to me to fully understand your business and what you're
-          trying to achieve. I will start with an interview and follow up with a
-          tailored questionnaire. Then, I produce writing samples to make sure
-          we're on the right track. Once we work together, we can make as many
-          revisions as you'd like so that your content is perfect.
+        content: |
+          Biodanza is a movement practice ...
       - title: Can you manage our social media?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
@@ -64,20 +59,20 @@ seo:
   title: Frequently Asked Questions
   description: This is the faq page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Frequently Asked Questions
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the faq page
       keyName: property
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Frequently Asked Questions
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the faq page
 layout: advanced
 ---
