@@ -23,11 +23,8 @@ sections:
         content: |
           Pricing on a non-judgemental scale.
       - title: How long are the sessions?
-        content: >-
-          No product or service is too technical to learn and understand. Part
-          of our initial onboarding is an in-depth understanding of your
-          offerings, your target audience and your level of technical writing
-          needed.
+        content: |
+          2 hours
       - title: How fast can we get started?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
