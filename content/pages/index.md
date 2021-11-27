@@ -50,10 +50,7 @@ sections:
         media_width: sixty
       - title: The Origin Story of Biodanza
         subtitle: 'Product updates, inventory and pricing.'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: "The creator of the\_ Biodanza\_\nwas Rolando Toro Araneda , during his work on a mental institution he\nrealized\_ how music and movement could induce\nmany emotional and physical states, enabling integration and balance or the\nopposite. Because Rolando followed many careers, including school teacher,\npsychologist, honorary medical doctor, medical researcher, poet, artist,\nAfrican art collector and anthropologist – all of them contributed to the\ndevelopment of Biodanza System, been this the work of his life .\n\n"
         actions:
           - label: Learn More in About
             url: /about
