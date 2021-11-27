@@ -36,7 +36,7 @@ layout: page
 
 ##### Biodanza sees The human being as a comprehensiveness  of the biological, the psychological and the&#xA;social as well of  the emotional,&#xA;behavioral, mental and bodily, it is this unity that generates harmony and&#xA;balance in human development.
 
-##### The creator of the  Biodanza &#xA;was Rolando Toro Araneda , during his work on a mental institution he&#xA;realized  how music and movement could induce&#xA;many emotional and physical states, enabling integration and balance or the&#xA;opposite. Because Rolando followed many careers, including school teacher,&#xA;psychologist, honorary medical doctor, medical researcher, poet, artist,&#xA;African art collector and anthropologist – all of them contributed to the&#xA;development of Biodanza System, been this the work of his life .
+#####
 
 ##### Nowadays there is more than 100&#xA;Biodanza Schools around the world and the System keeps evolving with more&#xA;experiences and researches. There is further qualification to facilitated&#xA;specific  groups, working with Children&#xA;and Teenagers was  a very Important&#xA;matter for Rolando and the whole community of Biodanza since the beginning,.
 
