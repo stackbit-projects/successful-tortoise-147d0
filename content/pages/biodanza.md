@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# What is Biodanza?
+# ![](/images/IMG\_0592\(1\)-c57e6fda.jpeg)What is Biodanza?
 
 #####  
 
