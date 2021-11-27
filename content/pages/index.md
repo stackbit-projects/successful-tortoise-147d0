@@ -33,7 +33,7 @@ sections:
     subtitle: What I do
     features:
       - title: Biodanza in a Nutshell
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: The Poetry of the Human Encounter
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
