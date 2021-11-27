@@ -22,7 +22,7 @@ sections:
       - title: How do you base your pricing?
         content: |
           Pricing on a non-judgemental scale.
-      - title: What if my business is technical?
+      - title: How long are the sessions?
         content: >-
           No product or service is too technical to learn and understand. Part
           of our initial onboarding is an in-depth understanding of your
