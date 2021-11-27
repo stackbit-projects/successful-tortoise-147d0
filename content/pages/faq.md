@@ -26,11 +26,9 @@ sections:
         content: |
           2 hours
       - title: I have not done any dancing before/in a long while?
-        content: >-
-          The onboarding process typically lasts 3-4 days and consists of an
-          intro video call, an interview, a questionnaire and some back and
-          forth communication for technical purposes. After that, we can go as
-          fast as you need.
+        content: >
+          Biodanza is a very inclusive practice. It is not about performance or
+          style. No steps or choreography.
       - title: Who handles the design?
         content: >-
           You can choose to provide the design yourself, or I can include a
