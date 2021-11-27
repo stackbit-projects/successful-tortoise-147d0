@@ -25,7 +25,7 @@ sections:
       - title: How long are the sessions?
         content: |
           2 hours
-      - title: How fast can we get started?
+      - title: I have not done any dancing before/in a long while?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
           intro video call, an interview, a questionnaire and some back and
