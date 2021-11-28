@@ -30,7 +30,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Bundle of 10 sessions
+      - title: Bundle of 5 sessions
         subtitle: Commited
         title_align: left
         content: |
