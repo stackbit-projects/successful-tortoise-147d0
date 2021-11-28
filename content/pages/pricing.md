@@ -56,18 +56,16 @@ sections:
       - title: Bundel of 10 sessions
         subtitle: Dedicated
         title_align: left
-        content: |-
-          ---
+        content: |
+          ### £70
 
-          ### $39
+          10 sessions for £7 each
 
-          per month, billed yearly
-
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   Et semper leo mattis orci conubia congue
+          *   Quisque eleifend imperdiet tortor
+          *   Elementum eu rhoncus, volutpat
+          *   Nisi cubilia interdum ultricies
+          *   Feugiat porta tortor
         content_align: left
         actions:
           - label: Start with Business
