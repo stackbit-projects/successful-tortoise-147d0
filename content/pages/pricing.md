@@ -12,17 +12,17 @@ sections:
       - title: Bundle of 5 sessions
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### £50
 
-          per month, billed yearly
+          5 sessions for the price of £10 each
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   Et
+          *   Quisque
+          *   Elementum
+          *   Nisi
         content_align: left
         actions:
           - label: Start with Personal
