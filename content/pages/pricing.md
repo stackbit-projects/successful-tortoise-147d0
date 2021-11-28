@@ -34,6 +34,8 @@ sections:
         subtitle: Commited
         title_align: left
         content: |
+          ###
+
           ### £40&#xA;&#xA;
 
           5 sessions for the price of £8 each
