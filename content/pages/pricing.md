@@ -9,7 +9,7 @@ sections:
     padding_bottom: small
   - type: grid_section
     grid_items:
-      - title: Bundle of 5 sessions
+      - title: Single session
         subtitle: Enthusiatic
         title_align: left
         content: |
