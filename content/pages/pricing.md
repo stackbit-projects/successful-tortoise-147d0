@@ -34,13 +34,9 @@ sections:
         subtitle: Commited
         title_align: left
         content: |
+          ### £40&#xA;&#xA;
 
-
-          £70
-
-
-
-          10 sessions for the price of £7 each
+          5 sessions for the price of £8 each
 
           *   Et
 
