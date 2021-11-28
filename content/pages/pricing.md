@@ -15,9 +15,9 @@ sections:
         content: |
           ***
 
-          ### £50
+          ### £40
 
-          5 sessions for the price of £10 each
+          5 sessions for the price of £8 each
 
           *   Et
           *   Quisque
