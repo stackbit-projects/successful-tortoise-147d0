@@ -35,11 +35,9 @@ sections:
         content: |
           ###
 
+          ### £40&#xA;&#xA;
 
-
-          ### £70&#xA;&#xA;
-
-          10 sessions for the price of £7 each
+          5 sessions for the price of £8 each
 
           *   Et
 
