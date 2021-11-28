@@ -34,15 +34,15 @@ sections:
         subtitle: Commited
         title_align: left
         content: |
-          ### £90
+          ### £70
 
           per month, billed yearly
 
           *   Et semper
-          *   Quisque 
+          *   Quisque
           *
-          *   Fringilla 
-          *   Litora 
+          *   Fringilla
+          *   Litora
         content_align: left
         actions:
           - label: Start with Premium
