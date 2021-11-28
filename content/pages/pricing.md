@@ -53,7 +53,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Bundel of 20 sessions
+      - title: Bundel of 10 sessions
         subtitle: Dedicated
         title_align: left
         content: |-
