@@ -63,7 +63,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Style Guide",
+                "label": "Pricing",
                 "url": "/style-guide",
                 "style": "link"
             },
