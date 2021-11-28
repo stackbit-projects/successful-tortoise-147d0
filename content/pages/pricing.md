@@ -52,7 +52,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Business
+      - title: Bundel of 20 sessions
         subtitle: Dedicated
         title_align: left
         content: |-
