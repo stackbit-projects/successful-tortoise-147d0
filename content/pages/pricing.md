@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Bundle of 10 sessions
-        subtitle: Optional subtitle
+        subtitle: Commited
         title_align: left
         content: |-
           ---
