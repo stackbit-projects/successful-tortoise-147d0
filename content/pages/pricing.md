@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Bundle of 5 sessions
-        subtitle: Optional subtitle
+        subtitle: Enthusiatic
         title_align: left
         content: |
           ***
