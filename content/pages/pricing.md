@@ -30,7 +30,7 @@ sections:
             style: primary
         actions_align: left
         actions_width: full-width
-      - title: Premium
+      - title: Bundle of 10 sessions
         subtitle: Optional subtitle
         title_align: left
         content: |-
