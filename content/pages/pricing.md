@@ -34,15 +34,21 @@ sections:
         subtitle: Commited
         title_align: left
         content: |
-          ### £70
 
-          per month, billed yearly
 
-          *   Et semper
+          £70
+
+
+
+          10 sessions for the price of £7 each
+
+          *   Et
+
           *   Quisque
-          *
-          *   Fringilla
-          *   Litora
+
+          *   Elementum
+
+          *   Nisi
         content_align: left
         actions:
           - label: Start with Premium
