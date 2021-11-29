@@ -30,7 +30,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Bundle of 5 sessions
-        subtitle: Commited
+        subtitle: Dedicated
         title_align: left
         content: |
           ### £40&#xA;&#xA;
