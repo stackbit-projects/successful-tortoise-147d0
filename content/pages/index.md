@@ -103,7 +103,7 @@ sections:
       - content: |
           For the first time in my life I could connect with complete strangers.
 
-          **Eleanor Carr,** *CTO, eCommerce Business*
+          **Eleanor Carr,** *Hairstylist, St.Pauls*
         image: images/eleanor-carr.png
         image_position: left
         image_width: twenty-five
