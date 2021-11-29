@@ -114,7 +114,7 @@ sections:
           Mind blowing!
 
 
-          **Gordon Norman,** *Web Designer, Local Business*
+          **Gordon Norman,** *Web Designer, Montpellier*
         image: images/gordon-norman.png
         image_position: left
         image_width: twenty-five
