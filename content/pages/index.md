@@ -96,7 +96,7 @@ sections:
       - content: |
           I have never felt as good in my life.
 
-          **Miles Tone,** *CEO, Studio*
+          **Miles Tone,** *Nurse, Easton*
         image: images/miles-tone.png
         image_position: left
         image_width: twenty-five
