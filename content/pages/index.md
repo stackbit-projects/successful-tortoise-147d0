@@ -66,7 +66,7 @@ sections:
         subtitle: Venue
         content: >
           The venues will be confirmed shortly. They will be in the Easton area
-          of St.Werburghs.
+          of Bristol, UK.
         actions:
           - label: See Past Work (FAQs)
             url: /faq
