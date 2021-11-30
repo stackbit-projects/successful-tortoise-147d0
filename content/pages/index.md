@@ -64,10 +64,9 @@ sections:
         media_width: sixty
       - title: Biodanza Classes
         subtitle: Venue
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          The venues will be confirmed shortly. They will be in the Easton area
+          of St.Werburghs.
         actions:
           - label: See Past Work (FAQs)
             url: /faq
